@@ -1,0 +1,8 @@
+C:\RepositorioGit\NotasEstudiantes\bin\Debug\NotasEstudiantes.exe.config
+C:\RepositorioGit\NotasEstudiantes\bin\Debug\NotasEstudiantes.exe
+C:\RepositorioGit\NotasEstudiantes\bin\Debug\NotasEstudiantes.pdb
+C:\RepositorioGit\NotasEstudiantes\obj\Debug\NotasEstudiantes.csproj.AssemblyReference.cache
+C:\RepositorioGit\NotasEstudiantes\obj\Debug\NotasEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\RepositorioGit\NotasEstudiantes\obj\Debug\NotasEstudiantes.csproj.CoreCompileInputs.cache
+C:\RepositorioGit\NotasEstudiantes\obj\Debug\NotasEstudiantes.exe
+C:\RepositorioGit\NotasEstudiantes\obj\Debug\NotasEstudiantes.pdb
